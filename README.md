@@ -1,2 +1,2 @@
 # Login-Register
-Login con un registro con HTML - CSS - JS
+Formulario-Login con HTML - CSS - JS
